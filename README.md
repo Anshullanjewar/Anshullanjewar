@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Anshullanjewar/Anshullanjewar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 # 💫 About Me:
 👨🏻‍💻 I’m looking to work as a Software Developer<br>🤖 I’m passionate about Android Development<br>🌱 I’m currently learning React Native<br>💬 Ask me about development using Java & Kotlin<br>🚧 Profile Under Construction
 
