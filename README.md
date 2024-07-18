@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-👨🏻‍💻 I’m working as a Software Developer<br>🤖 I’m passionate about Android and Robotics Development<br><br>💬 Ask me about development using Java, Robotics  & Android<br>
+👨🏻‍💻 I’m working as a Software Developer<br>🤖 I’m passionate about Android and Robotics Development<br>💬 Ask me about development using Java, Robotics  & Android<br>
 
 
 ## 🌐 Socials:
