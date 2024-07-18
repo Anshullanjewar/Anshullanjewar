@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-👨🏻‍💻 I’m working as a Software Developer<br>🤖 I’m passionate about Android Development<br>🌱 I’m currently learning React Native<br>💬 Ask me about development using Java & Kotlin<br>🚧 Profile Under Construction
+👨🏻‍💻 I’m working as a Software Developer<br>🤖 I’m passionate about Android and Robotics Development<br><br>💬 Ask me about development using Java, Robotics  & Android<br>
 
 
 ## 🌐 Socials:
